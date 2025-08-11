@@ -1,4 +1,5 @@
 ===============================================================================
+
 Alunos: Guilherme de Oliveira Aredes - 2025.1.08.026
         Pedro Ferreira Prado - 2025.1.08.028
 Projeto: Sistema de Manipulação de Imagens PGM
